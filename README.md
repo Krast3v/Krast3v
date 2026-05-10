@@ -1,16 +1,34 @@
-## Hi there 👋
+# Venelin Krustev
 
-<!--
-**Krast3v/Krast3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer | Selenium · C# · NUnit | Sofia, Bulgaria
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Career changer from finance with a strong analytical background.
+Currently building hands-on expertise in test automation — writing clean, maintainable test frameworks using industry-standard tools and patterns.
+
+---
+
+## Tech Stack
+
+**Test Automation:** Selenium WebDriver · NUnit · Page Object Model  
+**Languages:** C# · SQL (basics)  
+**Tools:** Git · GitHub · Visual Studio · Jira  
+**Currently learning:** API Testing (RestSharp) · CI/CD (GitHub Actions) · SpecFlow
+
+---
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite demonstrating core UI automation patterns | C# · Selenium · NUnit |
+| [TheInternetTests](https://github.com/Krast3v/TheInternetTests-) | End-to-end test framework — Login, Alerts, iFrames, Windows, Dynamic content | C# · Selenium · NUnit · POM · GitHub Actions |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venelin%20Krustev-blue?logo=linkedin)](https://www.linkedin.com/in/venelin-krustev)
