@@ -16,7 +16,7 @@ Currently building hands-on expertise in test automation — writing clean, main
 **Test Automation:** Selenium WebDriver · NUnit · Page Object Model  
 **Languages:** C# · SQL (basics)  
 **Tools:** Git · GitHub · Visual Studio · Jira  
-**Currently learning:** API Testing (RestSharp) · CI/CD (GitHub Actions) · SpecFlow
+**Currently learning:** CI/CD (GitHub Actions) · SpecFlow/BDD
 
 ---
 
@@ -24,8 +24,8 @@ Currently building hands-on expertise in test automation — writing clean, main
 
 | Project | Description | Stack |
 |---|---|---|
-| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite demonstrating core UI automation patterns | C# · Selenium · NUnit |
-| [TheInternetTests](https://github.com/Krast3v/TheInternetTests-) | End-to-end test framework — Login, Alerts, iFrames, Windows, Dynamic content | C# · Selenium · NUnit · POM · GitHub Actions |
+| [restful-booker-api-tests](https://github.com/Krast3v/restful-booker-api-tests) | Full CRUD API test suite — 23 tests covering GET, POST, PUT, PATCH, DELETE and Auth | C# · RestSharp · NUnit |
+| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite demonstrating core UI automation patterns | C# · Selenium · NUnit · POM |
 
 ---
 
