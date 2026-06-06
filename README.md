@@ -1,6 +1,6 @@
 # Venelin Krustev
 
-QA Automation Engineer | Selenium · C# · NUnit | Sofia, Bulgaria
+QA Automation Engineer | Selenium · C# · NUnit · RestSharp | Sofia, Bulgaria
 
 ---
 
@@ -13,10 +13,10 @@ Currently building hands-on expertise in test automation — writing clean, main
 
 ## Tech Stack
 
-**Test Automation:** Selenium WebDriver · NUnit · Page Object Model  
+**Test Automation:** Selenium WebDriver · RestSharp · NUnit · Page Object Model  
 **Languages:** C# · SQL (basics)  
-**Tools:** Git · GitHub · Visual Studio · Jira  
-**Currently learning:** CI/CD (GitHub Actions) · SpecFlow/BDD
+**Tools:** Git · GitHub · Visual Studio · Postman  
+**Currently learning:** CI/CD (GitHub Actions) · SpecFlow/BDD  
 
 ---
 
@@ -24,8 +24,8 @@ Currently building hands-on expertise in test automation — writing clean, main
 
 | Project | Description | Stack |
 |---|---|---|
-| [restful-booker-api-tests](https://github.com/Krast3v/restful-booker-api-tests) | Full CRUD API test suite — 23 tests covering GET, POST, PUT, PATCH, DELETE and Auth | C# · RestSharp · NUnit |
-| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite — Google search and Login scenarios using Page Object Model | C# · Selenium · NUnit · POM |
+| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite — 10 Page Objects covering Login, Alerts, Checkboxes, Dropdowns, IFrames, Windows, Hover, DragAndDrop, FileUpload and Dynamic Loading | C# · Selenium · NUnit · POM |
+| [restful-booker-api-tests](https://github.com/Krast3v/restful-booker-api-tests) | Full CRUD API test suite — 23 tests covering GET, POST, PUT, PATCH, DELETE and Auth with token-based authentication | C# · RestSharp · NUnit |
 
 ---
 
