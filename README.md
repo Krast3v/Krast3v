@@ -24,7 +24,7 @@ Currently building hands-on expertise in test automation — writing clean, main
 
 | Project | Description | Stack |
 |---|---|---|
-| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite — 10 Page Objects covering Login, Alerts, Checkboxes, Dropdowns, IFrames, Windows, Hover, DragAndDrop, FileUpload and Dynamic Loading | C# · Selenium · NUnit · POM |
+| [web-ui-automation-csharp](https://github.com/Krast3v/web-ui-automation-csharp) | Selenium WebDriver test suite — 11 Page Objects covering Login, Alerts, Checkboxes, Dropdowns, IFrames, Windows, Hover, DragAndDrop, FileUpload, ContextMenu and Dynamic Loading | C# · Selenium · NUnit · POM |
 | [restful-booker-api-tests](https://github.com/Krast3v/restful-booker-api-tests) | Full CRUD API test suite — 23 tests covering GET, POST, PUT, PATCH, DELETE and Auth with token-based authentication | C# · RestSharp · NUnit |
 
 ---
